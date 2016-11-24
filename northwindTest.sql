@@ -20,9 +20,10 @@ select COUNT(*) from suppliers;
 
 select COUNT(*) from purchase_orders;
 
+select COUNT(*) from invoices;
+
 select COUNT(*) from inventory_transactions;
 
-select COUNT(*) from invoices;
 
 select * from employees where id = < 10;
 
