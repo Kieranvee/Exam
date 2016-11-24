@@ -95,6 +95,7 @@ Vagrant.configure("2") do |config|
     sudo mysql --user=root --password=password < northwindTest.sql > resultsOrig.txt
     echo "Permissions"
     #this allowed me to use permissions as I had a persistant error
+    #the persistant error wouldn't allow me to upload to git
     sudo chmod -R 777 /
     #sudo mysql -u root -ppassword
    SHELL
