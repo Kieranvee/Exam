@@ -1,9 +1,0 @@
-NumberOfEmployees
-9
-avg(standard_cost)
-11.68250000
-city
-Bellevue
-Kirkland
-Redmond
-Seattle
