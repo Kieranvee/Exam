@@ -33,3 +33,4 @@ select ship_city from orders where id = 6;
 select avg(standard_cost) from products;
 
 select Distinct city from employees;
+
