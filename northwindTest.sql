@@ -25,7 +25,7 @@ select COUNT(*) from invoices;
 select COUNT(*) from inventory_transactions;
 
 
-select * from employees where id = < 10;
+select * from employees where id = 10;
 
 select COUNT(id)AS NumberOfEmployees from employees;
 
